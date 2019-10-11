@@ -14,7 +14,7 @@ gem 'jquery-rails'
 gem 'bootstrap-sass', '~> 3.4'
 gem 'csv'
 gem 'faker', '~> 1.9', '>= 1.9.1'
-gem 'nokogiri', '~> 1.8'
+gem 'nokogiri', '~> 1.10'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
