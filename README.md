@@ -1,3 +1,3 @@
 # README
 
-This is a app made with https://github.com/flatplanet tutorial. Thx!
+This is a Superhero Generator app made with @flatplanet tutorial. Thx!
